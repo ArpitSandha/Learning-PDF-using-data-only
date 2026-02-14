@@ -1,6 +1,6 @@
 # Learn Probability Density Functions using Roll-Number-Parameterized Non-Linear Model
 
-## 📌 Assignment Overview
+## Assignment Overview
 
 This project estimates the parameters of a probability density function (PDF) using a non-linear transformation of NO₂ air quality data.
 
@@ -12,7 +12,7 @@ NO₂ concentration (x)
 
 ---
 
-## 🔹 Step 1: Non-Linear Transformation
+## Step 1: Non-Linear Transformation
 
 Each NO₂ value (x) is transformed into z using:
 
@@ -27,7 +27,7 @@ r = University Roll Number
 
 ---
 
-## 🔹 Step 2: Probability Density Function
+## Step 2: Probability Density Function
 
 We estimate parameters of:
 
@@ -40,7 +40,7 @@ Parameters learned:
 
 ---
 
-## 🔹 Estimation Method
+## Estimation Method
 
 Parameters are estimated using Maximum Likelihood Estimation (MLE).
 
@@ -51,13 +51,13 @@ c = 1 / √(2πσ²)
 
 ---
 
-## 📊 Final Output
+## Final Output
 
 The learned parameters (λ, μ, c) are submitted as required in the assignment.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - NumPy
@@ -66,7 +66,7 @@ The learned parameters (λ, μ, c) are submitted as required in the assignment.
 
 ---
 
-## 📚 Learning Outcome
+## Learning Outcome
 
 - Understanding probability density functions
 - Non-linear transformations
